@@ -1,0 +1,1 @@
+Stop-process -processname launcher
